@@ -13,7 +13,7 @@ To get a copy for yourself, you can download as an .xlsx file or make a copy. To
 3. Rename to your preferred choice.
 4. Open document and you are ready to go.
 
-Make sure to retain a copy of the master file so that if you run into an errors or unexpected errors that yo have a clean slate.
+Make sure to retain a copy of the master file so that if you run into an errors or unexpected errors that you have a clean slate.
 
 <b>NOTE:</b> 
 I am not a registered dietician. Use of this document is an undertaking of your acceptance that this is not medical advice. This document should be used as a guide in consultation with a registered health professional and a holistic health plan.
