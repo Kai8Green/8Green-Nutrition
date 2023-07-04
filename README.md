@@ -16,6 +16,8 @@ To get a copy for yourself, you can download as an .xlsx file or make a copy. To
 Make sure to retain a copy of the master file so that if you run into an errors or unexpected errors that yo have a clean slate.
 
 <b>NOTE:</b> 
+I am not a registered dietician. Use of this document is an undertaking of your acceptance that this is not medical advice. This document should be used as a guide in consultation with a registered health professional and a holistic health plan.
+
 Anyone can make moderations to this file. I have only locked cells to prevent unintended modification of formulas. You can remove these locks. Anyone who makes amendments - builds, improves or reviews formula data on this document and is willing to share it back, please send up and I will review for version. 
 
 We grow together.
