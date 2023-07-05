@@ -2,6 +2,8 @@
 
 This repository holds an Excel spreadsheet based on RP Nutrition guidelines but within the metric system and with variations for formulas. I decided to upload this after getting a number of requests from friends for access to it.
 
+<b>If you find this useful, please consider leaving a star for the repo. It goes a long way to encouraging ongoing development and spreading awareness for projects</b>
+
 I understand that not everyone has access to Excel, so I've included a shared link below for Google Sheets that is free with a Google account.
 
 https://docs.google.com/spreadsheets/d/1LEhLisQ8Hxcf7oWMGyZYWdTdVHy5JXjX8ihDe63kaPw/edit?usp=sharing
